@@ -1,4 +1,4 @@
-<h1 Fontsize="30">
+<h1 Fontsize="80">
 Hi there 👋
 </h1>
 
