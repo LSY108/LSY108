@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor Count](https://profile-counter.glitch.me/LSY108/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSY108)](https://github.com/LSY108/github-readme-stats)
+![LSY108's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSY108&show_icons=true&theme=tokyonight)
