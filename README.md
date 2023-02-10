@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+（https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif）
 
 You are My ![Visitor Count](https://profile-counter.glitch.me/LSY108/count.svg) the vistor
 ![LSY108's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSY108&show_icons=true&theme=tokyonight)
