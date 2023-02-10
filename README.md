@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **LSY108/LSY108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Visitor Count](https://profile-counter.glitch.me/LSY108/count.svg)
+-->![Visitor Count](https://profile-counter.glitch.me/LSY108/count.svg)
 ![LSY108's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSY108&show_icons=true&theme=tokyonight)
