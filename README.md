@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![](https://img.shields.io/badge/python-3.9-orange)
+![](https://img.shields.io/badge/python-3.8-orange?style=for-the—badge&logo=python&logoColor=orange)
 
 You are My ![Visitor Count](https://profile-counter.glitch.me/LSY108/count.svg) the vistor
 ![LSY108's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSY108&show_icons=true&theme=tokyonight)
