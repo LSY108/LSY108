@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1 Fontsize="30">
+Hi there 👋
+</h1>
 
 
-**LSY108/LSY108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
