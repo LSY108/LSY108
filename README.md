@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 （https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif）
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LSY108&theme=dark&layout=compact)
 
 You are My ![Visitor Count](https://profile-counter.glitch.me/LSY108/count.svg) the vistor
 ![LSY108's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSY108&show_icons=true&theme=tokyonight)
