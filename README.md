@@ -1,10 +1,15 @@
 # Hello, I am Jackyfeng 👏🏻
 
-**Preview**：From Shanghai, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
+**Preview**：
 
-**4**：[My Blog](https://jackyfzh.github.io)
+From Shanghai, China 🏝, 
+
+love coding 🐍.
+
+A student 🏫，love photographing beautiful things🌿 and a little fat🍔.
 
 **Contact**：2177441033@qq.com
+
 **![](https://img.shields.io/badge/python-3.9-orange)**
 **![](https://img.shields.io/badge/python-3.8-orange?style=for-the—badge&logo=python&logoColor=orange)**
 
