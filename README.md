@@ -2,7 +2,7 @@
 
 **Preview**：
 
-From Shanghai, China 🏝, :shipit
+From Shanghai, China 🏝, :shipit:
 
 love coding 🐍.
 
